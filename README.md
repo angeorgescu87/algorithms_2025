@@ -1,1 +1,1 @@
-# algorithms_2025
+In order to run the project, simply add it using Visual Studio and run the tests for each problem.
